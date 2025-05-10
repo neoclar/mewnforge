@@ -1,4 +1,4 @@
-# mewnforge
+# MewnForge
 ModLoader for MewnBase.
 
 # Start
