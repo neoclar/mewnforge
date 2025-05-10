@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: "neoclar"
+Mewnbase-Version: 1.0.1
+Mewnforge-Version: 0.1
+Main-Class: com.neoclar.mewnforge.java.GameLoader
+SourceCodeURL: "https://github.com/neoclar/mewnforge"
+Dependencies: [jbi>=0.2]
+modID: "mewnforge"
+displayName: "MewnForge"
+description: """This is a mod loader."""
